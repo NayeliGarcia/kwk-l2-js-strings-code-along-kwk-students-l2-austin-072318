@@ -3,3 +3,4 @@ let currentUser = "Nayeli Garcia"
 let welcomeMessage ="Welcome to Klossybook, "
 welcomeMessage = welcomeMessage + currentUser + "!"
 let excitedWelcomeMessage= welcomeMessage.toUpperCase() 
+let shortGreeting = "Welcome, " + currentUser 
